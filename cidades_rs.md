@@ -1,5 +1,7 @@
 Erechim
+Viamão
 Gaurama
-Getúlio Vargas
 Paulo Bento
-Ponte Preta 
+Getúlio Vargas
+
+
