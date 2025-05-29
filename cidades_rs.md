@@ -1,4 +1,5 @@
 Erechim
+Centenario
 Viamão
 Gaurama
 Paulo Bento
